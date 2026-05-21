@@ -13,7 +13,7 @@ Personal dashboard
 Admin login (JWT secured)
 Create / update / delete events
 View all registrations
-Manage contact messages
+Manage contact messages 
 ⚙️ System Features
 Fully responsive UI
 REST API integration
